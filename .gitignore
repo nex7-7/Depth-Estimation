@@ -1,3 +1,9 @@
 model_snapshots
 depth_model.pth
 nyu_depth_v2_labeled.mat
+.idea
+abstract.py
+cnn_depth_estimation
+cnn_depth_estimation.png
+model_images
+model_abstract.py
